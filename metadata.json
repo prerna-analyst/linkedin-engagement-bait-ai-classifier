@@ -1,0 +1,6 @@
+{
+  "name": "PriceTrack - E-Commerce Price Comparison & Tracking Platform",
+  "description": "Track Prices. Compare Smarter. Save More. Real-time e-commerce price comparison, target-price alerts, and historical price analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
